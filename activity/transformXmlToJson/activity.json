@@ -1,12 +1,12 @@
 {
   "name": "transformXmlToJson",
   "type": "flogo:activity",
-  "ref": "github.com/krupalrao/flogocomponents/tree/master/activity/transformXmlToJson",
+  "ref": "github.com/krupalrao/flogo-components/activity/transformXmlToJson",
   "version": "0.0.1",
   "title": "transformXmlToJson",
   "description": "XML to JSON transformation .",
-  "author": "mmussett",
-  "homepage": "https://github.com/krupalrao/flogocomponents/tree/master/activity/transformXmlToJson",
+  "author": "krupal",
+  "homepage": "https://github.com/krupalrao/flogo-components/activity/transformXmlToJson",
   "inputs": [
     {
       "name": "content",
