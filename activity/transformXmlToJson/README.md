@@ -4,13 +4,13 @@ This activity provides your Flogo application the ability to run transformation 
 ## Installation
 
 ```
-flogo install github.com/krupalrao/flogocomponents/activity/transformXmlToJson
+flogo install github.com/krupalrao/flogocomponents/tree/master/activity/transformXmlToJson
 ```
 
 Link for flogo web:
 
 ```
-https://github.com/krupalrao/flogocomponents/activity/transformXmlToJson
+https://github.com/krupalrao/flogocomponents/tree/master/activity/transformXmlToJson
 ```
 
 
